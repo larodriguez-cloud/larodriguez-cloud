@@ -1,10 +1,10 @@
 # 👋 Hola, soy Laura Rodríguez
 
-💚 **Tech Recruiter en Buk | Psicóloga | Conectando personas, tecnología y cultura**
+💙 **Tech Recruiter en Buk | Psicóloga | Conectando personas, tecnología y cultura**
 
 > "No necesitas escribir código para entender el impacto que tiene construir software; a veces el primer paso es tener curiosidad por conocer cómo lo hacen quienes lo construyen." 🚀
 
-## 💚 Mi trabajo en Buk
+## 🚀 Mi trabajo en Buk
 
 Actualmente en Buk acompaño la atracción de talento tecnológico, trabajando junto a equipos de ingeniería y líderes técnicos para conectar personas con desafíos donde puedan crecer, generar impacto y sentirse parte de una cultura que los inspire.
 
