@@ -36,6 +36,18 @@ También estoy explorando:
 Me encanta conversar sobre talento tech, cultura de ingeniería, aprendizaje y cómo podemos construir mejores equipos.
 ---
 
+No queremos contarte solo lo que hacemos. Queremos mostrarte cómo lo hacemos. Explora nuestros pilares técnicos y conoce de cerca nuestras decisiones, tecnologías, desafíos y forma de trabajar.
+
+## 💙 Conoce Tech en Buk
+
+[🧠 Conoce nuestra cultura Tech →](https://github.com/larodriguez-cloud/Presencia) Conoce nuestra cultura de ingeniería, el nivel de autonomía de nuestros equipos y el impacto de lo que construimos.
+
+[🛠️ Descubre cómo construimos tecnología →](https://github.com/larodriguez-cloud/Conversi-n) Conoce las decisiones técnicas, tecnologías y desafíos que hacen posible construir Buk a escala.
+
+[🌎 Conoce nuestro ecosistema y oportunidades →](https://github.com/larodriguez-cloud/Evidencia) Ya viste cómo trabajamos y qué hay detrás de nuestra tecnología. Ahora puedes conocernos más de cerca, conectar con nuestro equipo o explorar una oportunidad en Buk. 💙
+
+Ahora puedes conocernos más de cerca, conectar con nuestro equipo o explorar una oportunidad en Buk. 💙
+
 ## 🤝 Conectemos
 
 Si quieres conversar sobre talento tech, cultura de ingeniería, aprendizaje en tecnología o simplemente compartir ideas, ¡será genial conectar!
