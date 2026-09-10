@@ -22,14 +22,6 @@ Desde mi rol acompaño equipos que trabajan con tecnologías como:
 - PHP (Symfony)
 - Java (Groovy & Grails)
 
-También estoy explorando:
-
-- AWS
-- Docker
-- Kubernetes
-- Open Source
-- Cultura de Ingeniería
-- Comunidades tech
 
 ## 🤝 Conectemos
 
